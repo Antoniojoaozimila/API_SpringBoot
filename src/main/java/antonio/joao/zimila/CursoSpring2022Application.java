@@ -21,7 +21,7 @@ private DBservice servico;
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		//servico.instaciaBaseDeDados();
+		servico.instaciaBaseDeDados();
 		
 		
 	}
